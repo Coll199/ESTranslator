@@ -1,0 +1,190 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "word": "eu",
+      "speech": "pronoun",
+      "lemma": "eu",
+      "article": "",
+      "person": "first",
+      "plural": "no",
+      "gender": "",
+      "case": "nominative",
+      "tense": ""
+    },
+    {
+      "id": "2",
+      "word": "fost",
+      "speech": "verb",
+      "lemma": "fi",
+      "article": "",
+      "person": "first",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": "past"
+    },
+    {
+      "id": "3",
+      "word": "la",
+      "speech": "preposition",
+      "lemma": "la",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "4",
+      "word": "plaja",
+      "speech": "noun",
+      "lemma": "plaja",
+      "article": "",
+      "person": "",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "5",
+      "word": "Tu",
+      "speech": "pronoun",
+      "lemma": "tu",
+      "article": "",
+      "person": "second",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "6",
+      "word": "El",
+      "speech": "pronoun",
+      "lemma": "el",
+      "article": "",
+      "person": "third",
+      "plural": "no",
+      "gender": "male",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "7",
+      "word": "Ea",
+      "speech": "pronoun",
+      "lemma": "ea",
+      "article": "",
+      "person": "third",
+      "plural": "no",
+      "gender": "female",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "8",
+      "word": "Noi",
+      "speech": "pronoun",
+      "lemma": "noi",
+      "article": "",
+      "person": "first",
+      "plural": "yes",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+                {
+      "id": "9",
+      "word": "si",
+      "speech": "conjunction",
+      "lemma": "si",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "10",
+      "word": "pentru",
+      "speech": "conjunction",
+      "lemma": "pentru",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "11",
+      "word": "pentru ca",
+      "speech": "conjunction",
+      "lemma": "pentru ca",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "12",
+      "word": "pana cand",
+      "speech": "conjunction",
+      "lemma": "pana cand",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "13",
+      "word": "in timp ce",
+      "speech": "conjunction",
+      "lemma": "in timp ce",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "14",
+      "word": "sau",
+      "speech": "conjunction",
+      "lemma": "sau",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "15",
+      "word": "de",
+      "speech": "conjunction",
+      "lemma": "de",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+  ],
+  "expressions": [
+
+  ],
+  "contractions": [
+
+  ]
+}

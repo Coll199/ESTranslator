@@ -1,0 +1,220 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "word": "I",
+      "speech": "pronoun",
+      "lemma": "I",
+      "article": "",
+      "person": "first",
+      "plural": "no",
+      "gender": "",
+      "case": "nominative",
+      "tense": ""
+    },
+    {
+      "id": "2",
+      "word": "was",
+      "speech": "verb",
+      "lemma": "be",
+      "article": "",
+      "person": "first",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": "past"
+    },
+    {
+      "id": "3",
+      "word": "at",
+      "speech": "preposition",
+      "lemma": "at",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "4",
+      "word": "beach",
+      "speech": "noun",
+      "lemma": "beach",
+      "article": "",
+      "person": "",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "5",
+      "word": "You",
+      "speech": "pronoun",
+      "lemma": "you",
+      "article": "",
+      "person": "second",
+      "plural": "no",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "6",
+      "word": "He",
+      "speech": "pronoun",
+      "lemma": "he",
+      "article": "",
+      "person": "third",
+      "plural": "no",
+      "gender": "male",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "7",
+      "word": "She",
+      "speech": "pronoun",
+      "lemma": "she",
+      "article": "",
+      "person": "third",
+      "plural": "no",
+      "gender": "female",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "8",
+      "word": "We",
+      "speech": "pronoun",
+      "lemma": "we",
+      "article": "",
+      "person": "first",
+      "plural": "yes",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "9",
+      "word": "and",
+      "speech": "conjunction",
+      "lemma": "and",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "10",
+      "word": "for",
+      "speech": "conjunction",
+      "lemma": "for",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "11",
+      "word": "because",
+      "speech": "conjunction",
+      "lemma": "because",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "12",
+      "word": "until",
+      "speech": "conjunction",
+      "lemma": "until",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+            {
+      "id": "13",
+      "word": "while",
+      "speech": "conjunction",
+      "lemma": "while",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "14",
+      "word": "or",
+      "speech": "conjunction",
+      "lemma": "or",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+        {
+      "id": "15",
+      "word": "of",
+      "speech": "conjunction",
+      "lemma": "of",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+
+  ],
+  "expressions": [
+
+  ],
+  "contractions": [
+    {
+      "id": "1",
+      "contracted": "I'm",
+      "expanded": "I am"
+    },
+    {
+      "id": "2",
+      "contracted": "Don't",
+      "expanded": "Do not"
+    },
+    {
+      "id": "3",
+      "contracted": "You're",
+      "expanded": "You are"
+    },
+    {
+      "id": "4",
+      "contracted": "Won't",
+      "expanded": "Will not"
+    },
+    {
+      "id": "5",
+      "contracted": "It's",
+      "expanded": "It is"
+    },
+    {
+      "id": "6",
+      "contracted": "We'll",
+      "expanded": "We will"
+    }
+  ]
+}
