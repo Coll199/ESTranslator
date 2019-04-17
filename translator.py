@@ -1,3 +1,5 @@
+import string
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 import json
 
@@ -42,8 +44,16 @@ def expand_words(text):
     return final
 
 
-text = "I was at the beach"
+# def replace_expressions(text):
+#     for x in en_dictionary["expressions"]:
 
+text2 = "{1} I went to the beach"
+for tk in text2.split("}"):
+    print(tk)
+
+
+text = "once upon a time I went to the beach"
+print(text.replace("upon",  "was"))
 
 text = expand_words(text)
 print(text)
@@ -51,6 +61,7 @@ print(text)
 
 finalTranslation = ""
 for tk in text.split():
+    #if word is code
     word = find_word(tk, en_dictionary)
     if word:
         finalTranslation += translate_word(word) + " "
@@ -104,13 +115,21 @@ class Ui_MainWindow(object):
     def onTranslateClicked(self):
         content = self.plainTextEdit.toPlainText()
         text = expand_words(content)
+        for x in en_dictionary["expressions"]:
+            print(x)
+            text = text.replace(x["expression"], "{" + x["id"] + "}")
+        print(text)
         finalTranslation = ""
         for tk in text.split():
-            word = find_word(tk, en_dictionary)
-            if word:
-                finalTranslation += translate_word(word) + " "
+            if tk[0] == "{":
+                id = int(tk.strip(string.punctuation))
+                finalTranslation += ro_dictionary["expressions"][id - 1]["expression"] + " "
             else:
-                finalTranslation += "[" + tk + "]" + " "
+                word = find_word(tk, en_dictionary)
+                if word:
+                    finalTranslation += translate_word(word) + " "
+                else:
+                    finalTranslation += "[" + tk + "]" + " "
         self.plainTextEdit_2.setPlainText(finalTranslation)
 
 

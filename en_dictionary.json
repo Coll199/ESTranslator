@@ -183,7 +183,22 @@
 
   ],
   "expressions": [
-
+    {
+      "id": "1",
+      "expression": "once upon a time"
+    },
+    {
+      "id": "2",
+      "expression": "every now and then"
+    },
+    {
+      "id": "3",
+      "expression": "take your time"
+    },
+    {
+      "id": "4",
+      "expression": "let me know"
+    }
   ],
   "contractions": [
     {

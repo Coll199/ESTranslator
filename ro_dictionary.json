@@ -182,7 +182,22 @@
     }
   ],
   "expressions": [
-
+    {
+      "id": "1",
+      "expression": "odata ca niciodata"
+    },
+    {
+      "id": "2",
+      "expression": "din cand in cand"
+    },
+    {
+      "id": "3",
+      "expression": "nu te grabi"
+    },
+    {
+      "id": "4",
+      "expression": "sa ma anunti"
+    }
   ],
   "contractions": [
 
