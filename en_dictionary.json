@@ -179,6 +179,150 @@
       "gender": "",
       "case": "",
       "tense": ""
+    },
+        {
+      "id": "16",
+      "word": "about",
+      "speech": "conjunction",
+      "lemma": "about",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "17",
+      "word": "after",
+      "speech": "conjunction",
+      "lemma": "after",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "18",
+      "word": "always",
+      "speech": "conjunction",
+      "lemma": "always",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "19",
+      "word": "an",
+      "speech": "conjunction",
+      "lemma": "an",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "20",
+      "word": "a",
+      "speech": "conjunction",
+      "lemma": "a",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "21",
+      "word": "car",
+      "speech": "noun",
+      "lemma": "car",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "22",
+      "word": "mother",
+      "speech": "noun",
+      "lemma": "mother",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "23",
+      "word": "telephone",
+      "speech": "noun",
+      "lemma": "telephone",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "24",
+      "word": "answer",
+      "speech": "noun",
+      "lemma": "answer",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "25",
+      "word": "ball",
+      "speech": "noun",
+      "lemma": "ball",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "26",
+      "word": "back",
+      "speech": "noun",
+      "lemma": "back",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "27",
+      "word": "the",
+      "speech": "article",
+      "lemma": "the",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
     }
 
   ],
@@ -198,7 +342,159 @@
     {
       "id": "4",
       "expression": "let me know"
+    },
+    {
+      "id": "5",
+      "expression": "i am"
+    },
+    {
+      "id": "6",
+      "expression": "you are"
+    },
+    {
+      "id": "7",
+      "expression": "he is"
+    },
+    {
+      "id": "8",
+      "expression": "she is"
+    },
+    {
+      "id": "9",
+      "expression": "we are"
     }
+    ,
+    {
+      "id": "10",
+      "expression": "they are"
+    }
+    ,
+    {
+      "id": "11",
+      "expression": "i was"
+    },
+    {
+      "id": "12",
+      "expression": "you were"
+    }
+        ,
+    {
+      "id": "13",
+      "expression": "he was"
+    }
+        ,
+    {
+      "id": "14",
+      "expression": "she was"
+    }
+        ,
+    {
+      "id": "15",
+      "expression": "we were"
+    }
+        ,
+    {
+      "id": "16",
+      "expression": "they were"
+    }
+        ,
+    {
+      "id": "17",
+      "expression": "i make"
+    }    ,
+    {
+      "id": "18",
+      "expression": "you make"
+    }    ,
+    {
+      "id": "19",
+      "expression": "he makes"
+    }
+    ,
+    {
+      "id": "20",
+      "expression": "she makes"
+    },
+    {
+      "id": "21",
+      "expression": "we make"
+    },
+    {
+      "id": "22",
+      "expression": "they make"
+    },
+    {
+      "id": "23",
+      "expression": "i made"
+    },
+    {
+      "id": "24",
+      "expression": "you made"
+    },
+    {
+      "id": "25",
+      "expression": "he made"
+    },
+    {
+      "id": "26",
+      "expression": "she made"
+    },
+    {
+      "id": "27",
+      "expression": "we made"
+    },
+    {
+      "id": "28",
+      "expression": "they made"
+    }, {
+      "id": "29",
+      "expression": "I have"
+    },
+    {
+      "id": "30",
+      "expression": "You have"
+    },
+    {
+      "id": "31",
+      "expression": "He has"
+    },
+    {
+      "id": "32",
+      "expression": "She has"
+    },
+    {
+      "id": "33",
+      "expression": "We have"
+    },
+    {
+      "id": "34",
+      "expression": "They have"
+    },
+    {
+      "id": "35",
+      "expression": "I had"
+    },
+    {
+      "id": "36",
+      "expression": "You had"
+    },
+    {
+      "id": "37",
+      "expression": "He had"
+    },
+    {
+      "id": "38",
+      "expression": "She had"
+    },
+    {
+      "id": "39",
+      "expression": "We had"
+    },
+    {
+      "id": "40",
+      "expression": "They had"
+    }
+
   ],
   "contractions": [
     {

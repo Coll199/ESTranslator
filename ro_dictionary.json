@@ -48,7 +48,7 @@
       "case": "",
       "tense": ""
     },
-            {
+    {
       "id": "5",
       "word": "Tu",
       "speech": "pronoun",
@@ -60,7 +60,7 @@
       "case": "",
       "tense": ""
     },
-        {
+    {
       "id": "6",
       "word": "El",
       "speech": "pronoun",
@@ -72,7 +72,7 @@
       "case": "",
       "tense": ""
     },
-        {
+    {
       "id": "7",
       "word": "Ea",
       "speech": "pronoun",
@@ -84,7 +84,7 @@
       "case": "",
       "tense": ""
     },
-        {
+    {
       "id": "8",
       "word": "Noi",
       "speech": "pronoun",
@@ -96,7 +96,7 @@
       "case": "",
       "tense": ""
     },
-                {
+    {
       "id": "9",
       "word": "si",
       "speech": "conjunction",
@@ -108,7 +108,7 @@
       "case": "",
       "tense": ""
     },
-            {
+    {
       "id": "10",
       "word": "pentru",
       "speech": "conjunction",
@@ -120,7 +120,7 @@
       "case": "",
       "tense": ""
     },
-            {
+    {
       "id": "11",
       "word": "pentru ca",
       "speech": "conjunction",
@@ -132,7 +132,7 @@
       "case": "",
       "tense": ""
     },
-            {
+    {
       "id": "12",
       "word": "pana cand",
       "speech": "conjunction",
@@ -144,7 +144,7 @@
       "case": "",
       "tense": ""
     },
-            {
+    {
       "id": "13",
       "word": "in timp ce",
       "speech": "conjunction",
@@ -168,11 +168,155 @@
       "case": "",
       "tense": ""
     },
-        {
+    {
       "id": "15",
       "word": "de",
       "speech": "conjunction",
       "lemma": "de",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "16",
+      "word": "despre",
+      "speech": "conjunction",
+      "lemma": "despre",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "17",
+      "word": "dupa",
+      "speech": "conjunction",
+      "lemma": "dupa",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "18",
+      "word": "intotdeauna",
+      "speech": "conjunction",
+      "lemma": "intotdeauna",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "19",
+      "word": "o",
+      "speech": "conjunction",
+      "lemma": "o",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "20",
+      "word": "o",
+      "speech": "conjunction",
+      "lemma": "o",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "21",
+      "word": "masina",
+      "speech": "noun",
+      "lemma": "masina",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "22",
+      "word": "mama",
+      "speech": "noun",
+      "lemma": "mama",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "23",
+      "word": "telefon",
+      "speech": "noun",
+      "lemma": "telefon",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "24",
+      "word": "raspuns",
+      "speech": "noun",
+      "lemma": "raspuns",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "25",
+      "word": "minge",
+      "speech": "noun",
+      "lemma": "minge",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "26",
+      "word": "inapoi",
+      "speech": "noun",
+      "lemma": "inapoi",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "27",
+      "word": "",
+      "speech": "article",
+      "lemma": "",
       "article": "",
       "person": "",
       "plural": "",
@@ -197,9 +341,150 @@
     {
       "id": "4",
       "expression": "sa ma anunti"
+    },
+    {
+      "id": "5",
+      "expression": "eu sunt"
+    },
+    {
+      "id": "6",
+      "expression": "tu esti"
+    },
+    {
+      "id": "7",
+      "expression": "el este"
+    },
+    {
+      "id": "8",
+      "expression": "ea este"
+    },
+    {
+      "id": "9",
+      "expression": "noi suntem"
+    },
+    {
+      "id": "10",
+      "expression": "ei sunt"
+    },
+    {
+      "id": "11",
+      "expression": "eu eram"
+    },
+    {
+      "id": "12",
+      "expression": "tu erai"
+    },
+    {
+      "id": "13",
+      "expression": "el era"
+    },
+    {
+      "id": "14",
+      "expression": "ea era"
+    },
+    {
+      "id": "15",
+      "expression": "noi eram"
+    },
+    {
+      "id": "16",
+      "expression": "ei erau"
+    },
+    {
+      "id": "17",
+      "expression": "eu fac"
+    },
+    {
+      "id": "18",
+      "expression": "tu faci"
+    },
+    {
+      "id": "19",
+      "expression": "el face"
+    },
+    {
+      "id": "20",
+      "expression": "ea face"
+    },
+    {
+      "id": "21",
+      "expression": "noi facem"
+    },
+    {
+      "id": "22",
+      "expression": "ei fac"
+    },
+    {
+      "id": "23",
+      "expression": "eu faceam"
+    },
+    {
+      "id": "24",
+      "expression": "tu faceai"
+    },
+    {
+      "id": "25",
+      "expression": "el facea"
+    },
+    {
+      "id": "26",
+      "expression": "ea facea"
+    },
+    {
+      "id": "27",
+      "expression": "noi faceam"
+    },
+    {
+      "id": "28",
+      "expression": "ei faceau"
+    },
+       {
+      "id": "29",
+      "expression": "Eu am"
+    },
+    {
+      "id": "30",
+      "expression": "Tu ai"
+    },
+    {
+      "id": "31",
+      "expression": "El are"
+    },
+    {
+      "id": "32",
+      "expression": "Ea are"
+    },
+    {
+      "id": "33",
+      "expression": "Noi avem"
+    },
+    {
+      "id": "34",
+      "expression": "Ei au"
+    },
+    {
+      "id": "35",
+      "expression": "Eu aveam"
+    },
+    {
+      "id": "36",
+      "expression": "Tu aveai"
+    },
+    {
+      "id": "37",
+      "expression": "El avea"
+    },
+    {
+      "id": "38",
+      "expression": "Ea avea"
+    },
+    {
+      "id": "39",
+      "expression": "Noi aveam"
+    },
+    {
+      "id": "40",
+      "expression": "Ei aveau"
     }
-  ],
-  "contractions": [
-
   ]
 }
