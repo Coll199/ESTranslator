@@ -323,6 +323,81 @@
       "gender": "",
       "case": "",
       "tense": ""
+    },
+    {
+      "id": "28",
+      "word": "serviciu",
+      "speech": "noun",
+      "lemma": "serviciu",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "29",
+      "word": "buna",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "30",
+      "word": "multe",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+       ,
+    {
+      "id": "31",
+      "word": "tablouri",
+      "speech": "",
+      "lemma": "tablou",
+      "article": "",
+      "person": "",
+      "plural": "yes",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+           ,
+    {
+      "id": "32",
+      "word": "frumos",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+               ,
+    {
+      "id": "33",
+      "word": "barca",
+      "speech": "",
+      "lemma": "barca",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
     }
   ],
   "expressions": [

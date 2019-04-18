@@ -44,31 +44,28 @@ def expand_words(text):
     return final
 
 
-# def replace_expressions(text):
-#     for x in en_dictionary["expressions"]:
-
-text2 = "{1} I went to the beach"
-for tk in text2.split("}"):
-    print(tk)
-
-
-text = "once upon a time I went to the beach"
-print(text.replace("upon",  "was"))
-
-text = expand_words(text)
-print(text)
-
-
-finalTranslation = ""
-for tk in text.split():
-    #if word is code
-    word = find_word(tk, en_dictionary)
-    if word:
-        finalTranslation += translate_word(word) + " "
-    else:
-        finalTranslation += "[" + tk + "]" + " "
-
-print(finalTranslation)
+# text2 = "{1} I went to the beach"
+# for tk in text2.split("}"):
+#     print(tk)
+#
+#
+# text = "once upon a time I went to the beach"
+# print(text.replace("upon",  "was"))
+#
+# text = expand_words(text)
+# print(text)
+#
+#
+# finalTranslation = ""
+# for tk in text.split():
+#     #if word is code
+#     word = find_word(tk, en_dictionary)
+#     if word:
+#         finalTranslation += translate_word(word) + " "
+#     else:
+#         finalTranslation += "[" + tk + "]" + " "
+#
+# print(finalTranslation)
 
 
 
@@ -116,7 +113,6 @@ class Ui_MainWindow(object):
         content = self.plainTextEdit.toPlainText()
         text = expand_words(content)
         for x in en_dictionary["expressions"]:
-            print(x)
             text = text.replace(x["expression"], "{" + x["id"] + "}")
         print(text)
         finalTranslation = ""

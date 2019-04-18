@@ -323,6 +323,81 @@
       "gender": "",
       "case": "",
       "tense": ""
+    },
+    {
+      "id": "28",
+      "word": "work",
+      "speech": "noun",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "29",
+      "word": "Hello",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    },
+    {
+      "id": "30",
+      "word": "many",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+    ,
+    {
+      "id": "31",
+      "word": "paintings",
+      "speech": "",
+      "lemma": "painting",
+      "article": "",
+      "person": "",
+      "plural": "yes",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+           ,
+    {
+      "id": "32",
+      "word": "beautiful",
+      "speech": "",
+      "lemma": "beautiful",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
+    }
+               ,
+    {
+      "id": "33",
+      "word": "boat",
+      "speech": "",
+      "lemma": "",
+      "article": "",
+      "person": "",
+      "plural": "",
+      "gender": "",
+      "case": "",
+      "tense": ""
     }
 
   ],
@@ -345,7 +420,7 @@
     },
     {
       "id": "5",
-      "expression": "i am"
+      "expression": "I am"
     },
     {
       "id": "6",
